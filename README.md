@@ -1,7 +1,6 @@
 # minitalk_final
-115/125 (mandatory part only)
 
-42과제 minitalk mandatory만 구현하 버전으로 평가가 끝난 완료된 과제입니다.
+minitalk 구현하 버전으로 평가가 끝난 완료된 프로젝트입니다.
 
 과제는 signal()함수를 사용하여 구현했습니다.
 
